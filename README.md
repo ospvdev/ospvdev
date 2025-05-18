@@ -22,4 +22,5 @@
 ![Livewire](https://img.shields.io/badge/-Livewire-000000?style=for-the-badge&labelColor=000000&color=000000&logo=livewire&logoColor=4E56A6)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-000000?style=for-the-badge&labelColor=000000&color=000000&logo=tailwindcss&logoColor=06B6D4)
 
-![ospvdev's Stats](https://github-readme-stats.vercel.app/api?username=ospvdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Mis Estadisticas](https://github-readme-stats.vercel.app/api?username=ospvdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ospvdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ospvdev&theme=vue-dark&hide_border=true)
