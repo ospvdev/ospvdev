@@ -22,5 +22,5 @@
 ![Googleanalytics](https://img.shields.io/badge/-Googleanalytics-000000?style=flat-square&labelColor=000000&color=000000&logo=googleanalytics&logoColor=E37400)
 ![Archlinux](https://img.shields.io/badge/-Archlinux-000000?style=flat-square&labelColor=000000&color=000000&logo=archlinux&logoColor=1793D1)
 
-![Mis Estadisticas](https://github-readme-stats.vercel.app/api?username=ospvdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![ospvdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ospvdev&theme=vue-dark&hide_border=true)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ospvdev&" alt="ospvdev" /></p>
