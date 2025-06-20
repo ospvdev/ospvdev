@@ -23,4 +23,4 @@
 ![Archlinux](https://img.shields.io/badge/-Archlinux-000000?style=flat-square&labelColor=000000&color=000000&logo=archlinux&logoColor=1793D1)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ospvdev&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ospvdev&theme=dark" alt="GitHub Streak" /></a>
