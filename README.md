@@ -1,4 +1,4 @@
-# ¡Hola! Soy Donny tocador de código y de xikitas. 
+# ¡Hola! Soy Oscar tocador de código y de xikitas. 
 
 ## 🛠 Tech Stack
 
