@@ -85,12 +85,20 @@
 
 <div align="center">
 
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ospvdev&theme=tokyonight-duo&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun" height="180" alt="GitHub Streak"/>
+  <a href="https://github.com/ospvdev">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=ospvdev&show_icons=true&theme=midnight-purple&hide_border=false&border_radius=0&include_all_commits=true&count_private=true"
+      height="180"
+      alt="GitHub Stats"
+    />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ospvdev&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=5" height="180" alt="Top Languages"/>
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=ospvdev&layout=compact&langs_count=8&exclude_repo=ospvdev.github.io&theme=midnight-purple&hide_border=false&border_radius=0&cache_seconds=7200"
+      height="180"
+      alt="Top Languages"
+    />
   </a>
 
 </div>
