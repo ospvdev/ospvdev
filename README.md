@@ -40,7 +40,7 @@
   <tr>
     <th>DevOps & Orchestration</th>
     <th>Cloud Providers</th>
-    <th>AI / ML</th>
+    <th>Systems & Version Control</th>
   </tr>
   <tr>
     <td align="center" bgcolor="#2f343f">
@@ -52,6 +52,18 @@
       <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" width="65" alt="AWS"/>
     </td>
     <td align="center" bgcolor="#2f343f">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" alt="Linux"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="45" alt="Arch Linux"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" alt="Git"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" alt="GitHub"/>
+    </td>
+  </tr>
+
+  <tr>
+    <th colspan="3">AI / ML</th>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" bgcolor="#2f343f">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" alt="PyTorch"/>
     </td>
