@@ -38,7 +38,7 @@
   </tr>
 
   <tr>
-    <th>Containerization & Orchestration</th>
+    <th>DevOps & Orchestration</th>
     <th>Cloud Providers</th>
     <th>AI / ML</th>
   </tr>
