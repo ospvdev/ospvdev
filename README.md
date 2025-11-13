@@ -95,7 +95,7 @@
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=ospvdev&layout=compact&langs_count=8&exclude_repo=ospvdev.github.io&theme=midnight-purple&hide_border=false&border_radius=0&cache_seconds=500"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=ospvdev&layout=compact&langs_count=8&exclude_repo=ospvdev.github.io&theme=midnight-purple&hide_border=false&border_radius=0&cache_seconds=300"
       height="180"
       alt="Top Languages"
     />
